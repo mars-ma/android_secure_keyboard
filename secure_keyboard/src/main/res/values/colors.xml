@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/darkblue</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_black">#44000000</color>
+    <!--public-->
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#168CE3</color>
+    <color name="darkblue">#116FB5</color>
+    <color name="LightGray">#c0c0c0</color>
+    <color name="DarkGray">#909090</color>
+    <color name="red">#EE4000</color>
+    <color name="DarkRed">#EE0000</color>
+    <color name="DarkBlue">#168CE3</color>
+    <color name="Black">#262626</color>
+    <color name="Gray">#727272</color>
+    <color name="BlackLight">#999999</color>
+    <color name="GrayLight">#AFAFAF</color>
+
+    <!--stroke-->
+    <color name="NormalStrokeColor">@android:color/darker_gray</color>
+
+    <!--checkbox-->
+    <color name="CheckBoxColor" >@color/blue</color>
+    <color name="CheckBoxUnChecked" >@color/white</color>
+
+    <!--textview-->
+    <color name="NormalTextColor">#606060</color>
+
+
+
+</resources>

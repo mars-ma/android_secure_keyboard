@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SecureKeyborad</string>
+    <string name="yes">完成</string>
+    <string name="delete">删除</string>
+    <string name="securekeyboard">安全键盘</string>
+    <string name="digit">数字</string>
+    <string name="letter">字母</string>
+    <string name="symbol">符号</string>
+    <string name="space">空格</string>
+    <string name="convert">转换</string>
+    <string name="capital">大写</string>
+
+</resources>

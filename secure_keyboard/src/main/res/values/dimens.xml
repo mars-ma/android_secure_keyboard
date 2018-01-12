@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--public-->
+    <dimen name="corner">8dp</dimen>
+    <dimen name="NormalCorner">2dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="TitleMargin">20dp</dimen>
+
+    <!--stroke-->
+    <dimen name="NormalStrokeWidth">1px</dimen>
+    <dimen name="WideStrokeWidth">1dp</dimen>
+
+    <!--textview-->
+    <dimen name="NormalTextViewMargin">6dp</dimen>
+    <dimen name="NormalTextViewPadding">6dp</dimen>
+    <dimen name="SmallTextSize">12sp</dimen>
+    <dimen name="NormalTextSize">16sp</dimen>
+    <dimen name="BigTextSize">20sp</dimen>
+    <dimen name="LargeTextSize">24sp</dimen>
+    <!--checkbox-->
+    <dimen name="CheckBoxSize">25dp</dimen>
+
+    <!--loading dialog-->
+    <dimen name="LoadingDialogSize">10dp</dimen>
+    <dimen name="LoadingDialogStroke">4dp</dimen>
+    <dimen name="LoadingDialogDashWidth">2dp</dimen>
+    <dimen name="LoadingDialogDashGap">1dp</dimen>
+
+    <!--title bar-->
+    <dimen name="TitleBarHeight">50dp</dimen>
+    <dimen name="TitleBarTextSize">@dimen/BigTextSize</dimen>
+</resources>
