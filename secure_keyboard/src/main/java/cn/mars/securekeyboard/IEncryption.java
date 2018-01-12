@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
 /**
  * 定义加密接口

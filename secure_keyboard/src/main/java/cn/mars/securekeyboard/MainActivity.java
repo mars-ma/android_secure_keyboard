@@ -1,6 +1,5 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
-import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;

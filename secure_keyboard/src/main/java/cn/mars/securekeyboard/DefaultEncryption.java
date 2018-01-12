@@ -1,8 +1,8 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
-import cn.mars.securekeyborad.util.DesUtil;
-import cn.mars.securekeyborad.util.LogUtil;
-import cn.mars.securekeyborad.util.RandomUtil;
+import cn.mars.securekeyboard.util.DesUtil;
+import cn.mars.securekeyboard.util.LogUtil;
+import cn.mars.securekeyboard.util.RandomUtil;
 
 /**
  * Created by ma.xuanwei on 2018/1/9.

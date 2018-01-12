@@ -1,12 +1,9 @@
-package cn.mars.securekeyborad.util;
+package cn.mars.securekeyboard.util;
 
-import android.os.Environment;
 import android.os.Process;
 import android.util.Log;
 
 import java.io.ByteArrayOutputStream;
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.text.SimpleDateFormat;

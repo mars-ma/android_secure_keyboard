@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
 import android.app.Dialog;
 import android.content.Context;

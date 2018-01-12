@@ -1,14 +1,10 @@
-package cn.mars.securekeyborad.util;
+package cn.mars.securekeyboard.util;
 
-import java.io.UnsupportedEncodingException;
-import java.nio.charset.Charset;
 import java.security.Key;
-import java.security.SecureRandom;
 import java.security.spec.AlgorithmParameterSpec;
 import java.util.Locale;
 
 import javax.crypto.Cipher;
-import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.DESKeySpec;
 import javax.crypto.spec.IvParameterSpec;

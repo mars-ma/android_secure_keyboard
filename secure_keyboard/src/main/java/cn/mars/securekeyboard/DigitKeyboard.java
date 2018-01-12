@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.Button;
 import java.util.LinkedList;
 import java.util.Random;
 
-import cn.mars.securekeyborad.util.LogUtil;
+import cn.mars.securekeyboard.util.LogUtil;
 
 /**
  * 数字键盘管理

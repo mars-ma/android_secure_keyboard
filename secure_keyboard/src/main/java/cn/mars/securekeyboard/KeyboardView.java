@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import cn.mars.securekeyborad.util.LogUtil;
+import cn.mars.securekeyboard.util.LogUtil;
 
 /**
  * 键盘View层

@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad;
+package cn.mars.securekeyboard;
 
 import android.content.Context;
 import android.text.Editable;

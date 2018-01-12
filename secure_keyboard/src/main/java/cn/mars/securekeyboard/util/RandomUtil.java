@@ -1,4 +1,4 @@
-package cn.mars.securekeyborad.util;
+package cn.mars.securekeyboard.util;
 
 import java.util.Random;
 
